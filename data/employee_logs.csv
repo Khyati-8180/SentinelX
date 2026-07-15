@@ -1,0 +1,13 @@
+Employee,Department,Failed_Logins,Files_Accessed,USB_Events,Login_Hour
+Alice,Finance,8,260,1,2
+Bob,IT,1,18,0,10
+Charlie,HR,0,12,0,9
+David,Admin,9,310,1,1
+Emma,Security,0,20,0,11
+James,Finance,4,90,0,8
+Sophia,IT,0,16,0,13
+Michael,Admin,10,420,1,3
+William,Finance,0,15,0,10
+Olivia,HR,1,18,0,9
+Daniel,Security,6,170,1,4
+Isabella,IT,0,14,0,12
